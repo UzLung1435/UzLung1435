@@ -4,9 +4,7 @@ Here is uz.
 
 A code learner. All soory is for the rubbish code I code.
 
-呃这里是鸽子Guru。代码不是那么好请见谅。只是比较喜欢折腾所以看的比较多写的比较少还望多多见谅。
-
-Age 21. A collage student in Zhongkai University of Agriculture and Engineering (ZHKU).
+信息与计算科学专业。热爱折腾，也许了解很多方面的知识且让我们一起无限进步！XD
 
 ---
 Supported language:
@@ -19,23 +17,8 @@ Coding language:
  - C/C++ (little)
  - Shell (little)
 
-Devices：
- - Phones/Pads/PCs:
-    - Redmi Note 12T Pro (Pearl)
-    - Redmi K40 (alioth; or called POCO F3)
-    - Xiaomi 6X (wayne; or called Xiaomi A2)
-    - Apple iPad Air 5
-    - Dell G15 5515 Ryzen Edition (5800H with RTX3060)
- - Routers:
-    - Xiaomi wr30u (mt7981)
-    - CMCC VS010 (ipq5000)
- - Smart Devices:
-    - Miband 7 NFC
 ---
 
 Here is the stats:
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=UzLung1435&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)  
-
-
-
